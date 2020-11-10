@@ -1,0 +1,26 @@
+{
+  "name": "tienda-online",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorennaleon/tienda-online.git"
+  },
+  "author": "lorenna leon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lorennaleon/tienda-online/issues"
+  },
+  "homepage": "https://github.com/lorennaleon/tienda-online#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.12.1",
+    "@babel/core": "^7.12.3",
+    "@babel/plugin-transform-modules-commonjs": "^7.12.1",
+    "eslint": "^6.0.0",
+    "jest": "^26.6.3"
+  }
+}
